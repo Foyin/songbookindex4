@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "description": "N to N relationship database access",
   "main": "server.js",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.4.5",
+    "sqlite3": "^4.0.2"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
