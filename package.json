@@ -1,0 +1,25 @@
+{
+  "name": "songbookindex4",
+  "version": "1.0.0",
+  "description": "N to N relationship database access",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foyin/songbookindex4.git"
+  },
+  "keywords": [
+    "sqlite"
+  ],
+  "author": "Foyin Ogbara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foyin/songbookindex4/issues"
+  },
+  "homepage": "https://github.com/Foyin/songbookindex4#readme"
+}
